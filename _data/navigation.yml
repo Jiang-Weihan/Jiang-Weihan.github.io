@@ -4,5 +4,8 @@ main:
     url: /publications/
 
   - title: "CV"
-    url: /_cv/
+    url: /files/paper1.pdf
+
+  - title: "Talks"
+    url: https://cn.bing.com/?mkt=zh-CN
 

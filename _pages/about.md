@@ -12,8 +12,8 @@ Hi, I am a graduate student in [Shanghai Jiao Tong University](https://en.sjtu.e
 
 I was born in Jilin, China. I recieved the Bachelor degree(2021) in Automation at [Harbin Institute of Technology](http://en.hit.edu.cn/) in Weihai, China.
 
-Currently I am doing research on rehabilitation robot based on inverse optimal control, under the guidance of  Prof. [Han Zhang](https://zhanghan-tc.github.io/).
-
+Currently,  I am doing research on rehabilitation robots and human motion identification, under the guidance of  Prof. [Han Zhang](https://zhanghan-tc.github.io/).
+Our research on inverse optimal control focuses on modelling human tracking behaviour with consistency.
 
  **Keywords**: rehabilitation robot ,  inverse optimal control and system identification.
 

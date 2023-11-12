@@ -3,11 +3,11 @@ main:
   - title: "Publications"
     url: https://jiang-weihan.github.io/publications/
         
-  - title: "projects"
-    url: https://jiang-weihan.github.io/year-archive/
+  - title: "Projects"
+    url: https://jiang-weihan.github.io/Projects/
     
   - title: "CV"
     url: https://jiang-weihan.github.io/cv/
     
-  - title: "Guide"
-    url: /markdown/
+#  - title: "Guide"
+#    url: /markdown/

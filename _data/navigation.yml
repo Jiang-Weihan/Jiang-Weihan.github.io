@@ -1,13 +1,10 @@
 # main links links
 main:
-  - title: "Publications"
+  - title: "Publications & Projects"
     url: https://jiang-weihan.github.io/publications/
-        
-  - title: "Projects"
-    url: https://jiang-weihan.github.io/portfolio/
     
   - title: "CV"
-    url: https://jiang-weihan.github.io/cv/
+    url: /files/CV (Weihan Jiang).pdf
     
 #  - title: "Guide"
 #    url: /markdown/

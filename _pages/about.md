@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "jwh"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
 Graduate Student  
-[Autonomous Robot Lab](https://robotics.sjtu.edu.cn/)  
-[Department of Automation](https://automation.sjtu.edu.cn/)  
+[Autonomous Robot Lab](https://robotics.sjtu.edu.cn/),   [Department of Automation](https://automation.sjtu.edu.cn/)  
 [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/)  
 
-**I am looking for a PhD supervisor.**
-
- **Keywords**: **rehabilitation robot **,  **inverse optimal control ** and  **system identification**.
+ **Keywords**: rehabilitation robot ,  inverse optimal control and system identification.
 
 **E-mail**: JiangWH9@sjtu.edu.cn
 
@@ -36,8 +32,7 @@ Education
 Publication
 ------
 - [Statistically consistent inverse optimal control for linear-quadratic tracking with random time horizon](https://ieeexplore.ieee.org/abstract/document/9902327) - 41st Chinese Control Conference. IEEE
-- Identifying the tracking motion pattern in rehabilitation using inverse optimal control -accepted by China Automation Congress, IEEE
-
+- Identifying the tracking motion pattern in rehabilitation using inverse optimal control - **accepted** by China Automation Congress, IEEE
 
 <!--
 My designed robot platform: solidworks

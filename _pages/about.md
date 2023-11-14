@@ -31,8 +31,8 @@ Publication
   - The behaviour of a patient tracking a given reference signal is modelled by a linear quadratic optimal problem, while her control inputs are corrupted by **signal-dependent noise**. 
   - The **identifiability** for the model structure and the **consistency** for the identification algorithm is proved .
   - The performance of the algorithm is illustrated by both numerical simulations and experiments.
-  - My CAC poster  ![Editing a markdown file for a talk](/images/CAC-poster.png)
-
+  - My CAC poster  ![Editing a markdown file for a talk](/images/CAC-Poster.png)
+  - My CAC poster  ![Editing a markdown file for a talk](/images/CAC-Poster.pdf)
 - [Statistically consistent inverse optimal control for linear-quadratic tracking with random time horizon](https://ieeexplore.ieee.org/abstract/document/9902327) - 41st Chinese Control Conference. IEEE
 
 

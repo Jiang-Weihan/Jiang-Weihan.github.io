@@ -27,16 +27,11 @@ Education
 Publication
 ------
 - Identifying the tracking motion pattern in rehabilitation using inverse optimal control - **accepted** by China Automation Congress, IEEE
-  - As one of the most fundamental rehabilitation tasks, the **tracking** motions between the patients are highly personalized. Maximizing the treatment potency requires us to understand and model the patient's personalized tracking pattern.  
-  In this paper, we model the behaviour of a patient tracking a given reference signal by a linear quadratic optimal problem, while her control inputs are corrupted by **signal-dependent noise**. Since the parameters in the objective function stand for the trade-off between tracking error and control effort, 
-they are interpreted as the ``personalized" tracking motion pattern and the goal is to identify them based on the observed data. 
-  Such a problem is called Inverse Optimal Control (IOC). 
-  We first prove that the model structure is **identifiable**. Then we propose a **statistically consistent IOC algorithm** that handles multiplicative noise induced by muscle fluctuations. The consistent performance is then illustrated by both numerical **simulations** and **experiments**.  
-  - My CAC poster  ![Editing a markdown file for a talk](/images/editing-talk.png)
-<!--
-My designed robot platform: solidworks
-![solidworks](/images/robot.png)
--->
+  - Maximizing the treatment potency requires us to understand and model the patient's **personalized** tracking pattern.  
+  - The behaviour of a patient tracking a given reference signal is modelled by a linear quadratic optimal problem, while her control inputs are corrupted by **signal-dependent noise**. 
+  - The **identifiability** for the model structure and the **consistency** for the identification algorithm is proved .
+  - The performance of the algorithm is illustrated by both numerical simulations and experiments.
+  - My CAC poster  ![Editing a markdown file for a talk](/images/CAC-poster.png)
 
 - [Statistically consistent inverse optimal control for linear-quadratic tracking with random time horizon](https://ieeexplore.ieee.org/abstract/document/9902327) - 41st Chinese Control Conference. IEEE
 

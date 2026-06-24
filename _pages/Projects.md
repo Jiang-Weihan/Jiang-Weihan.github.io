@@ -24,54 +24,104 @@ redirect_from:
 
 <div class="work-list">
   <article class="work-item work-item--game">
-    <div class="work-item__media work-item__media--text">
-      <span>Game<br>Studies</span>
-    </div>
+    <a class="work-item__media" href="https://www.bilibili.com/video/BV1dArYB9ERo/">
+      <img src="/images/pelican-town-politics-economy.jpg" alt="Cover image for a video essay on Pelican Town politics and economy">
+      <span class="work-item__stats" aria-label="240K views and 12K likes">
+        <span><i class="fa fa-play" aria-hidden="true"></i> 240K</span>
+        <span><i class="fa fa-thumbs-up" aria-hidden="true"></i> 12K</span>
+      </span>
+    </a>
     <div class="work-item__body">
-      <h2 class="work-item__title">Emerging Game Research</h2>
-      <p class="work-item__meta">Developing Ph.D. research directions around game culture, player experience, and cultural meaning.</p>
-      <p class="work-item__summary">Current interests include farming games and urban imaginaries of rural life, women-friendly games and gendered histories of play, cultural metaphors embedded in game mechanics, and games as implicit learning systems.</p>
+      <h2 class="work-item__title">The Politics and Economy of Pelican Town: Why Is the Mayor Busy Growing Flowers, Reselling Goods, and Dating?</h2>
       <div class="work-item__labels">
-        <span class="work-item__badge">In Progress</span>
+        <div class="work-item__badge-links">
+          <a href="#"><i class="fa fa-play" aria-hidden="true"></i> English</a>
+          <a href="https://www.bilibili.com/video/BV1dArYB9ERo/"><i class="fa fa-play" aria-hidden="true"></i> Mandarin</a>
+        </div>
         <div class="work-item__tags">
-          <span>Player Experience</span>
-          <span>Gender &amp; Representation</span>
+          <span>Stardew Valley</span>
+          <span>Game Metaphors</span>
         </div>
       </div>
     </div>
   </article>
 
-  <article class="work-item work-item--game work-item--blogs">
-    <div class="work-item__media work-item__media--text">
-      <span>Media<br>Work</span>
-    </div>
+  <article class="work-item work-item--game">
+    <a class="work-item__media" href="https://www.bilibili.com/video/BV1VRiLBtEZi/">
+      <img src="/images/stardew-valley-overlooked-mothers.jpg" alt="Cover image for a video essay on overlooked mothers in Stardew Valley">
+      <span class="work-item__stats" aria-label="160K views and 12K likes">
+        <span><i class="fa fa-play" aria-hidden="true"></i> 160K</span>
+        <span><i class="fa fa-thumbs-up" aria-hidden="true"></i> 12K</span>
+      </span>
+    </a>
     <div class="work-item__body">
-      <h2 class="work-item__title">Public-Facing Game and Digital Culture Content</h2>
-      <p class="work-item__meta">Media creator writing and making content about game design, player behavior, and cultural metaphors in games.</p>
-      <p class="work-item__summary">This section will collect selected videos, essays, and platform-based projects that connect personal play experience with observations of player communities.</p>
+      <h2 class="work-item__title">The Overlooked Mothers of Stardew Valley</h2>
       <div class="work-item__labels">
-        <span class="work-item__badge">Media Work</span>
+        <div class="work-item__badge-links">
+          <a href="https://www.bilibili.com/video/BV1VRiLBtEZi/"><i class="fa fa-play" aria-hidden="true"></i> English</a>
+          <a href="https://www.bilibili.com/video/BV1VRiLBtEZi/"><i class="fa fa-play" aria-hidden="true"></i> Mandarin</a>
+        </div>
         <div class="work-item__tags">
-          <span>Player Communities</span>
-          <span>Digital Culture</span>
+          <span>Gendered Dilemmas</span>
+          <span>Stardew Valley</span>
         </div>
       </div>
-      <div class="work-item__links">
-        <a href="https://www.youtube.com/@BeyondCurioCat">YouTube</a>
-        <a href="https://www.xiaohongshu.com/user/profile/5eb7aa7c0000000001007985">Red Note</a>
-        <a href="https://space.bilibili.com/3546840926521808?spm_id_from=333.1007.0.0">Bilibili</a>
+    </div>
+  </article>
+
+  <article class="work-item work-item--game">
+    <a class="work-item__media" href="https://www.bilibili.com/video/BV1MdmiBBEkK/">
+      <img src="/images/stardew-valley-yoba-faith.jpg" alt="Cover image for a video essay on the Yoba faith in Stardew Valley">
+      <span class="work-item__stats" aria-label="63K views and 5K likes">
+        <span><i class="fa fa-play" aria-hidden="true"></i> 63K</span>
+        <span><i class="fa fa-thumbs-up" aria-hidden="true"></i> 5K</span>
+      </span>
+    </a>
+    <div class="work-item__body">
+      <h2 class="work-item__title">Does NPC Religion Matter? A Close Reading of the Yoba Faith in Stardew Valley</h2>
+      <div class="work-item__labels">
+        <div class="work-item__badge-links">
+          <a href="https://www.bilibili.com/video/BV1MdmiBBEkK/"><i class="fa fa-play" aria-hidden="true"></i> English</a>
+          <a href="https://www.bilibili.com/video/BV1MdmiBBEkK/"><i class="fa fa-play" aria-hidden="true"></i> Mandarin</a>
+        </div>
+        <div class="work-item__tags">
+          <span>Religious Metaphors</span>
+          <span>Game Design</span>
+        </div>
+      </div>
+    </div>
+  </article>
+
+  <article class="work-item work-item--game">
+    <a class="work-item__media" href="https://www.bilibili.com/video/BV1NL5Y6GEfR/">
+      <img src="/images/bartending-game-nietzsche-dionysian.png" alt="Cover image for a video essay on Nietzsche and the Dionysian spirit through a bartending game">
+      <span class="work-item__stats" aria-label="1.2K views and 0.1K likes">
+        <span><i class="fa fa-play" aria-hidden="true"></i> 1.2K</span>
+        <span><i class="fa fa-thumbs-up" aria-hidden="true"></i> 0.1K</span>
+      </span>
+    </a>
+    <div class="work-item__body">
+      <h2 class="work-item__title">Reading Nietzsche and the Dionysian Spirit Through a Bartending Game</h2>
+      <div class="work-item__labels">
+        <div class="work-item__badge-links">
+          <a href="https://www.bilibili.com/video/BV1NL5Y6GEfR/"><i class="fa fa-play" aria-hidden="true"></i> English</a>
+          <a href="https://www.bilibili.com/video/BV1NL5Y6GEfR/"><i class="fa fa-play" aria-hidden="true"></i> Mandarin</a>
+        </div>
+        <div class="work-item__tags">
+          <span>Philosophical Metaphors</span>
+          <span>Game Design</span>
+        </div>
       </div>
     </div>
   </article>
 
   <article class="work-item work-item--previous">
-    <div class="work-item__media work-item__media--text">
-      <span>Rehabilitation<br>HCI</span>
-    </div>
+    <a class="work-item__media" href="https://ieeexplore.ieee.org/abstract/document/10450678">
+      <img src="/images/rehabilitation-ioc-cover.png" alt="Cover image for rehabilitation inverse optimal control paper">
+    </a>
     <div class="work-item__body">
       <h2 class="work-item__title">Identifying the Tracking Motion Pattern in Rehabilitation Using Inverse Optimal Control</h2>
       <p class="work-item__meta">Weihan Jiang, et al.</p>
-      <p class="work-item__summary">This work models personalized patient tracking behavior in rehabilitation-oriented human-computer interaction through inverse optimal control, system identification, and signal-dependent noise.</p>
       <div class="work-item__labels">
         <span class="work-item__badge">China Automation Congress, IEEE</span>
         <div class="work-item__tags">
@@ -93,7 +143,6 @@ redirect_from:
     <div class="work-item__body">
       <h2 class="work-item__title">Statistically Consistent Inverse Optimal Control for Linear-Quadratic Tracking with Random Time Horizon</h2>
       <p class="work-item__meta">Weihan Jiang, et al.</p>
-      <p class="work-item__summary">This earlier work develops statistically consistent inverse optimal control methods for linear-quadratic tracking, connecting control theory, modeling, and estimation.</p>
       <div class="work-item__labels">
         <span class="work-item__badge">41st Chinese Control Conference, IEEE</span>
         <div class="work-item__tags">
@@ -114,7 +163,6 @@ redirect_from:
     <div class="work-item__body">
       <h2 class="work-item__title">Engineering and Robotics Background</h2>
       <p class="work-item__meta">Research and engineering experience before turning toward game studies.</p>
-      <p class="work-item__summary">Selected experience includes precision motion control in industry, prototype debugging, field issue diagnosis, reliability improvement for precision equipment, and ROBOCON work in embodied systems, robot control, simulation, and collaborative engineering.</p>
       <div class="work-item__labels">
         <span class="work-item__badge">Previous Work</span>
         <div class="work-item__tags">

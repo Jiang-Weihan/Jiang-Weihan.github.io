@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Homepage"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Weihan Jiang"
 description              : &description "personal description"
 url                      : https://jiang-weihan.github.io/
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jiang-weihan.github.io/"
+repository               : "Jiang-Weihan/Jiang-Weihan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -81,13 +81,16 @@ analytics:
 # Site Author
 author:
   name             : "Weihan Jiang"
-  avatar           : "profile.png"
-  bio              : "Graduate Student in Shanghai Jiao Tong University"
-  location         : "Shanghai, China"
+  avatar           : "avatar.webp"
+  bio              : "Media Creator | Game Studies"
+  location         :
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=LOmLNeMAAAAJ&hl=zh-CN&oi=ao"
-  email            : JiangWH9@sjtu.edu.cn
+  email            : JWH9493@outlook.com
+  rednote          : "https://www.xiaohongshu.com/user/profile/5eb7aa7c0000000001007985"
+  bilibili         : "https://space.bilibili.com/3546840926521808?spm_id_from=333.1007.0.0"
+  youtube_url      : "https://www.youtube.com/@BeyondCurioCat"
   researchgate     :  # example: " "
   uri              :
   bitbucket        :

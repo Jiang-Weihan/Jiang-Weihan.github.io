@@ -1,10 +1,10 @@
 # main links links
 main:
-#  - title: "Publications & Projects"
-#    url: https://jiang-weihan.github.io/publications/
-    
+  - title: "Research & Media"
+    url: /research-media/
+
+  - title: "Blogs"
+    url: /blogs/
+
   - title: "CV"
-    url: /files/paper1.pdf
-    
-#  - title: "Guide"
-#    url: /markdown/
+    url: /files/CV%20(Weihan%20Jiang).pdf

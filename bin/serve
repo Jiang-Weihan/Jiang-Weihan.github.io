@@ -1,0 +1,9 @@
+#!/usr/bin/env sh
+set -eu
+
+export PATH="/opt/homebrew/opt/ruby/bin:$PATH"
+
+bundle exec jekyll serve \
+  --host 127.0.0.1 \
+  --port 4000 \
+  --config _config.yml,_config.dev.yml

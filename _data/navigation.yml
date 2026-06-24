@@ -3,8 +3,8 @@ main:
   - title: "Research & Media"
     url: /research-media/
 
-  - title: "Blogs"
-    url: /blogs/
-
   - title: "CV"
     url: /files/CV%20(Weihan%20Jiang).pdf
+
+  - title: "Resources"
+    url: /resources/

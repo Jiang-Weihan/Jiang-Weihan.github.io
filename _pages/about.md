@@ -3,6 +3,7 @@ permalink: /
 title: "Weihan Jiang &#124; 蒋伟晗"
 excerpt: "Weihan Jiang &#124; 蒋伟晗"
 author_profile: true
+wide_page: true
 redirect_from: 
   - /about/
   - /about.html

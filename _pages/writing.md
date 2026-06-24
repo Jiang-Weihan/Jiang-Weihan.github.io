@@ -1,30 +1,29 @@
 ---
 layout: archive
-title: "Blogs"
-permalink: /blogs/
+title: "Resources"
+permalink: /resources/
 author_profile: true
 redirect_from:
+  - /blogs/
   - /writing/
 ---
 
-Essays and Notes
+Books
 ------
 
-This page will collect essays, reading notes, and short research reflections on games, culture, player experience, and interactive media.
+This section will collect books I have read or plan to revisit, especially around game studies, media studies, HCI, gender studies, digital culture, and research methods.
 
-Planned Topics
+Articles and Papers
 ------
 
-- Farming games and the imagination of rural life.
-- Gender, narrative, and women-friendly games.
-- Cultural metaphors in everyday game mechanics.
-- Games, learning, and implicit education.
+This section will collect useful academic articles, papers, and reading notes related to games, player experience, representation, learning, and interactive media.
 
-Blog Archive
+Courses, Tools, and Online Resources
 ------
 
-{% include base_path %}
+This section will collect courses, websites, datasets, tools, and other resources that have helped my research, media work, or learning process.
 
-{% for post in site.posts reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Notes and Reflections
+------
+
+This section will collect short reflections from reading, watching, playing, and making media.

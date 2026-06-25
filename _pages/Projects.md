@@ -36,7 +36,7 @@ redirect_from:
       <div class="work-item__labels">
         <div class="work-item__badge-links">
           <a href="#"><i class="fa fa-play" aria-hidden="true"></i> English</a>
-          <a href="https://www.bilibili.com/video/BV1dArYB9ERo/"><i class="fa fa-play" aria-hidden="true"></i> Mandarin</a>
+          <a href="https://www.bilibili.com/video/BV1dArYB9ERo/"><i class="fa fa-play" aria-hidden="true"></i> 中文</a>
         </div>
         <div class="work-item__tags">
           <span>Stardew Valley</span>
@@ -59,7 +59,7 @@ redirect_from:
       <div class="work-item__labels">
         <div class="work-item__badge-links">
           <a href="https://www.bilibili.com/video/BV1VRiLBtEZi/"><i class="fa fa-play" aria-hidden="true"></i> English</a>
-          <a href="https://www.bilibili.com/video/BV1VRiLBtEZi/"><i class="fa fa-play" aria-hidden="true"></i> Mandarin</a>
+          <a href="https://www.bilibili.com/video/BV1VRiLBtEZi/"><i class="fa fa-play" aria-hidden="true"></i> 中文</a>
         </div>
         <div class="work-item__tags">
           <span>Gendered Dilemmas</span>
@@ -82,7 +82,7 @@ redirect_from:
       <div class="work-item__labels">
         <div class="work-item__badge-links">
           <a href="https://www.bilibili.com/video/BV1MdmiBBEkK/"><i class="fa fa-play" aria-hidden="true"></i> English</a>
-          <a href="https://www.bilibili.com/video/BV1MdmiBBEkK/"><i class="fa fa-play" aria-hidden="true"></i> Mandarin</a>
+          <a href="https://www.bilibili.com/video/BV1MdmiBBEkK/"><i class="fa fa-play" aria-hidden="true"></i> 中文</a>
         </div>
         <div class="work-item__tags">
           <span>Religious Metaphors</span>
@@ -105,7 +105,7 @@ redirect_from:
       <div class="work-item__labels">
         <div class="work-item__badge-links">
           <a href="https://www.bilibili.com/video/BV1NL5Y6GEfR/"><i class="fa fa-play" aria-hidden="true"></i> English</a>
-          <a href="https://www.bilibili.com/video/BV1NL5Y6GEfR/"><i class="fa fa-play" aria-hidden="true"></i> Mandarin</a>
+          <a href="https://www.bilibili.com/video/BV1NL5Y6GEfR/"><i class="fa fa-play" aria-hidden="true"></i> 中文</a>
         </div>
         <div class="work-item__tags">
           <span>Philosophical Metaphors</span>
@@ -116,7 +116,7 @@ redirect_from:
   </article>
 
   <article class="work-item work-item--previous">
-    <a class="work-item__media" href="https://ieeexplore.ieee.org/abstract/document/10450678">
+    <a class="work-item__media" href="/files/rehabilitation-inverse-optimal-control.pdf">
       <img src="/images/rehabilitation-ioc-cover.png" alt="Cover image for rehabilitation inverse optimal control paper">
     </a>
     <div class="work-item__body">
@@ -130,7 +130,7 @@ redirect_from:
         </div>
       </div>
       <div class="work-item__links">
-        <a href="https://ieeexplore.ieee.org/abstract/document/10450678">Paper</a>
+        <a href="/files/rehabilitation-inverse-optimal-control.pdf">Paper</a>
         <a href="/images/CAC-Poster.pdf">Poster</a>
       </div>
     </div>
@@ -151,7 +151,7 @@ redirect_from:
         </div>
       </div>
       <div class="work-item__links">
-        <a href="https://ieeexplore.ieee.org/abstract/document/9902327">Paper</a>
+        <a href="/files/statistically-consistent-inverse-optimal-control.pdf">Paper</a>
       </div>
     </div>
   </article>

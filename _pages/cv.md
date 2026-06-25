@@ -64,7 +64,7 @@ Skills
 * Matlab, C, C++
 * Control theory, system identification, motion control
 * Languages
-  * Mandarin - Native
+  * 中文 - Native
   * English - IELTS 7.5
 * Mechanical design
   

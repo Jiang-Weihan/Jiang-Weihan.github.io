@@ -22,14 +22,14 @@
       {% if author.googlescholar %}
         <a href="{{ author.googlescholar }}" title="Google Scholar" aria-label="Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
       {% endif %}
-      {% if author.rednote %}
-        <a href="{{ author.rednote }}" title="Red Note" aria-label="Red Note"><span>RN</span></a>
-      {% endif %}
       {% if author.youtube_url %}
         <a href="{{ author.youtube_url }}" title="YouTube" aria-label="YouTube"><i class="fab fa-youtube" aria-hidden="true"></i></a>
       {% endif %}
+      {% if author.rednote %}
+        <a href="{{ author.rednote }}" title="Red Note" aria-label="Red Note"><img src="{{ "/images/rednote-icon-gray.png" | prepend: base_path }}" alt="" aria-hidden="true"></a>
+      {% endif %}
       {% if author.bilibili %}
-        <a href="{{ author.bilibili }}" title="Bilibili" aria-label="Bilibili"><span>B</span></a>
+        <a href="{{ author.bilibili }}" title="Bilibili" aria-label="Bilibili"><img src="{{ "/images/bilibili-icon-gray.png" | prepend: base_path }}" alt="" aria-hidden="true"></a>
       {% endif %}
     </div>
   </div>

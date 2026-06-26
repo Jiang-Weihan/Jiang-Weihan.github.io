@@ -20,10 +20,10 @@
     {% if author.email %}<p class="author__email"><a href="mailto:{{ author.email }}">{{ author.email }}</a></p>{% endif %}
     <div class="author__icon-links" aria-label="Profile links">
       {% if author.googlescholar %}
-        <a href="{{ author.googlescholar }}" title="Google Scholar" aria-label="Google Scholar"><i class="fas fa-graduation-cap" aria-hidden="true"></i></a>
+        <a href="{{ author.googlescholar }}" title="Google Scholar" aria-label="Google Scholar"><img src="{{ "/images/google-scholar-icon-gray.svg" | prepend: base_path }}" alt="" aria-hidden="true"></a>
       {% endif %}
       {% if author.youtube_url %}
-        <a href="{{ author.youtube_url }}" title="YouTube" aria-label="YouTube"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+        <a href="{{ author.youtube_url }}" title="YouTube" aria-label="YouTube"><img src="{{ "/images/youtube-icon-gray.svg" | prepend: base_path }}" alt="" aria-hidden="true"></a>
       {% endif %}
       {% if author.rednote %}
         <a href="{{ author.rednote }}" title="Red Note" aria-label="Red Note"><img src="{{ "/images/rednote-icon-gray.png" | prepend: base_path }}" alt="" aria-hidden="true"></a>

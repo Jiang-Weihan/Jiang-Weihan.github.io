@@ -7,7 +7,7 @@ redirect_from:
   - /projects/
 ---
 
-<p class="work-intro">A collection of my research, media work, and selected writings.</p>
+<p class="work-intro">A collection of my research, selected media work and writings.</p>
 
 <div class="work-board">
   <input class="work-switch work-switch--all" type="radio" name="work-filter" id="work-all" checked>
@@ -32,7 +32,7 @@ redirect_from:
       </span>
     </a>
     <div class="work-item__body">
-      <h2 class="work-item__title">The Politics and Economy of Pelican Town: Why Is the Mayor Busy Growing Flowers, Reselling Goods, and Dating?</h2>
+      <h2 class="work-item__title">Pelican Town&rsquo;s Politics and Economy: Why Doesn&rsquo;t the Mayor Do His Job?</h2>
       <div class="work-item__labels">
         <div class="work-item__badge-links">
           <a href="#"><i class="fa fa-play" aria-hidden="true"></i> English</a>
@@ -121,7 +121,7 @@ redirect_from:
     </a>
     <div class="work-item__body">
       <h2 class="work-item__title">Identifying the Tracking Motion Pattern in Rehabilitation Using Inverse Optimal Control</h2>
-      <p class="work-item__meta">Weihan Jiang, et al.</p>
+      <p class="work-item__meta"><strong><u>Weihan Jiang</u></strong>, Han Zhang, Ziliang Wang</p>
       <div class="work-item__labels">
         <span class="work-item__badge">China Automation Congress, IEEE</span>
         <div class="work-item__tags">
@@ -142,7 +142,7 @@ redirect_from:
     </div>
     <div class="work-item__body">
       <h2 class="work-item__title">Statistically Consistent Inverse Optimal Control for Linear-Quadratic Tracking with Random Time Horizon</h2>
-      <p class="work-item__meta">Weihan Jiang, et al.</p>
+      <p class="work-item__meta">Han Zhang, Axel Ringh, <strong><u>Weihan Jiang</u></strong>, Shaoyuan Li, Xiaoming Hu</p>
       <div class="work-item__labels">
         <span class="work-item__badge">41st Chinese Control Conference, IEEE</span>
         <div class="work-item__tags">
